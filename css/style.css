@@ -1,0 +1,107 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+.nav-head{
+	background-image: url(../img/banner1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0px;
+	display: block;
+}
+
+.head-one{
+	 color: white;
+    text-align: center;
+    margin-left: 141px;
+}
+.head-one h1{
+	   margin: 150px 0px 25px 0px;
+
+}
+.head-one span {
+    border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.head-one p{
+    margin: 30px 0px;
+    font-size: 18px;
+}
+.head-one button {
+    background: #ED145B;
+    border: none;
+    padding: 12px 50px;
+    color: white;
+    font-size: 20px;
+    border-radius: 41px;
+    margin: 20px 0px 50px 0px;
+}
+.free img{
+	    max-width: 100%;
+}
+section {
+	padding: 50px 0px;
+}
+
+.about-content{
+      text-align: center;
+      color: black;
+}
+.about-content p {
+	 margin: 30px 0px;
+    font-size: 18px;
+}
+.about-content span{
+	border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.about-content h2{
+	
+}
+
+.about-pic{
+	    text-align: center;
+    margin-top: 40px;
+}
+
+.about-pic img{
+	max-width: 100%
+	margin:0 auto;
+}
+.prices {
+	text-align: center;
+
+}
+.prices p{
+ margin: 30px 0px;
+    font-size: 18px;
+}
+.prices h2{
+
+}
+.prices span{
+  border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.card{
+
+}
+.card-top{
+
+}
+.card-bottom{
+
+}
+.card-top btn-two {
+
+}
+.card-bottom button {
+
+}
